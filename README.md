@@ -75,7 +75,7 @@ investigation.
 
 ## 📂 Project Files
 
-- `Finnacle Financial_Analysis.pbix` — Power BI project file
+- `Finnacle Financial_Analysis.pbix`(https://github.com/Yogitha172004/Financial-Analysis-PowerBi/blob/main/Finnacle%20Financial_Analysis.pbix) — Power BI project file
 - `Screenshots/` — Dashboard previews
 
 ## 👩‍💻 Author
