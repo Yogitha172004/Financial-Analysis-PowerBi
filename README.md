@@ -67,11 +67,11 @@ investigation.
 
 ### Overview Analysis
 
-![Overview Dashboard](https://github.com/Yogitha172004/Financial-Analysis-PowerBi/blob/main/Screenshot%202026-08-08%20195728.png)
+![Overview Dashboard](https://github.com/Yogitha172004/Financial-Analysis-PowerBi/blob/main/Overview%20Analysis.png)
 
 ### Transactions
 
-![Transactions Dashboard](https://github.com/Yogitha172004/Financial-Analysis-PowerBi/blob/main/Screenshot%202026-08-08%20195129.png)
+![Transactions Dashboard](https://github.com/Yogitha172004/Financial-Analysis-PowerBi/blob/main/Transactions.png)
 
 ## 📂 Project Files
 
