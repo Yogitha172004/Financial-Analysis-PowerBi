@@ -71,7 +71,7 @@ investigation.
 
 ### Transactions
 
-![Transactions Dashboard]()
+![Transactions Dashboard](https://github.com/Yogitha172004/Financial-Analysis-PowerBi/blob/main/Screenshot%202026-08-08%20195129.png)
 
 ## 📂 Project Files
 
