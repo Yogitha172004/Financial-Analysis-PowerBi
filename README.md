@@ -67,15 +67,15 @@ investigation.
 
 ### Overview Analysis
 
-![Overview Dashboard](Screenshots/overview-analysis.png)
+![Overview Dashboard](https://github.com/Yogitha172004/Financial-Analysis-PowerBi/blob/main/Screenshot%202026-08-08%20195728.png)
 
 ### Transactions
 
-![Transactions Dashboard](Screenshots/transactions.png)
+![Transactions Dashboard]()
 
 ## 📂 Project Files
 
-- `Quantum_Financial_Analysis.pbix` — Power BI project file
+- `Finnacle Financial_Analysis.pbix` — Power BI project file
 - `Screenshots/` — Dashboard previews
 
 ## 👩‍💻 Author
